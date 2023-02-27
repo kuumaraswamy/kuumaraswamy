@@ -5,7 +5,7 @@
 
 - 👀 I'm a Passionate developer who loves simplicity in things and crafts beautiful user interfaces with love.
 
-- 🌱 I’m currently learning **React,DSA,Next.js,Node.js**
+- 🌱 I’m currently learning **Next.js**
 
 - 💬 Ask me about **HTML,CSS,JavaScript,React**
 
